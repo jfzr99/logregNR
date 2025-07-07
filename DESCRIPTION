@@ -16,3 +16,5 @@ RoxygenNote: 7.3.2
 Depends: R (>= 3.5.0)
 Imports:
     stats
+URL: https://github.com/hayoek/logregNR
+BugReports: https://github.com/hayoek/logregNR/issues
