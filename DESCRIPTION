@@ -1,0 +1,18 @@
+Package: logregNR
+Type: Package
+Title: Regresi Logistik dengan Metode Newton-Raphson
+Version: 0.1.0
+Author: Kelompok 3 [aut, cre]
+Maintainer: Kelompok 3 <kelompok3@example.com>
+Description: Package ini menyediakan implementasi manual dari regresi logistik 
+    menggunakan metode Newton-Raphson untuk data dengan respon biner. 
+    Cocok digunakan dalam pembelajaran statistik komputasi, khususnya 
+    untuk memahami estimasi parameter dengan pendekatan iteratif.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Depends: R (>= 3.5.0)
+Imports:
+    stats
